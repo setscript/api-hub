@@ -1,0 +1,85 @@
+{
+  "dataPoints": [
+    {
+      "timestamp": "2025-03-13T10:22:39.912Z",
+      "teamMembers": [
+        {
+          "name": "Parsherr",
+          "username": "parsherr",
+          "role": "owner"
+        },
+        {
+          "name": "Ryokacchi",
+          "username": "Ryokacchi",
+          "role": "co-owner"
+        },
+        {
+          "name": "Oktay",
+          "username": "oktayyavuz",
+          "role": "developer"
+        },
+        {
+          "name": "Lourity",
+          "username": "lourityy",
+          "role": "developer"
+        },
+        {
+          "name": "Rasperon",
+          "username": "rasperon",
+          "role": "Securty Pentester"
+        },
+        {
+          "name": "Laex",
+          "username": "thislaex",
+          "role": "developer"
+        },
+        {
+          "name": "Erdem",
+          "username": "erslly",
+          "role": "developer"
+        },
+        {
+          "name": "Senotron",
+          "username": "senotron",
+          "role": "developer"
+        },
+        {
+          "name": "Star",
+          "username": "starrhub",
+          "role": "developer"
+        },
+        {
+          "name": "Akemi",
+          "username": "akemi1tr",
+          "role": "developer"
+        },
+        {
+          "name": "Tilki",
+          "username": "tilkidevelopment",
+          "role": "API Developer"
+        },
+        {
+          "name": "Akira",
+          "username": "Akiracik",
+          "role": "developer"
+        },
+        {
+          "name": "Rasdiant",
+          "username": "Rasdiantt",
+          "role": "developer"
+        },
+        {
+          "name": "Eralp",
+          "username": "EralpR",
+          "role": "Securtiy Tester"
+        },
+        {
+          "name": "Losadev",
+          "username": "lewislosa",
+          "role": "developer"
+        }
+      ],
+      "projects": []
+    }
+  ]
+}
